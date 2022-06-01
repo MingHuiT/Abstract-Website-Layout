@@ -18,3 +18,12 @@ https://help.abstract.com/hc/en-us
 
 # Disclaimer: 
 For educational prupose ONLY 
+
+# Challenges
+• Not fitting full page <br>
+• Can't align the logo <br>
+• Can't insert catogaries illustration <br>
+• Footer not align properly 
+
+# Contact
+Feel free to reach me through *tiewminghui@gmail.com* if you have any suggestions on the challenges
